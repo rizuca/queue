@@ -8,7 +8,7 @@ export default function App() {
     <div className="min-h-screen bg-background p-4">
       <div className="max-w-4xl mx-auto space-y-6">
         <div className="text-center space-y-2">
-          <h1>Queue Data Structure Implementation</h1><br />
+          <h1>Queue Data Structure Implementation</h1>
             <p className="text-muted-foreground">
             Implementasi Queue dengan Array Statis, Linked List, dan Circular Queue dari kelompok 7 yang beranggotakan : <br /> Rifqi, Nazwa, Repi, Nuriana
           </p>
